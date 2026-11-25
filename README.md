@@ -24,6 +24,10 @@
 
 <br/>
 
+<p align="center">
+<i>Software engineer building AI-powered products: LLM automation pipelines, OCR, and full-stack web apps.</i>
+</p>
+
 ## 🚀 Top 3 Projects
 
 <table>
@@ -78,6 +82,8 @@ Responsive single-page portfolio built with React and Vite, with Framer Motion a
 </td>
 </tr>
 </table>
+
+<div align="center"><sub><a href="https://github.com/kiran-kumars953?tab=repositories">Browse all repositories →</a></sub></div>
 
 ---
 
