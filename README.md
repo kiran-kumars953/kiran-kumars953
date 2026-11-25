@@ -28,20 +28,38 @@
 <i>Software engineer building AI-powered products: LLM automation pipelines, OCR, and full-stack web apps.</i>
 </p>
 
-## 🚀 Top 3 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🤖 1 · AI News → LinkedIn
+### 🛡️ 1 · CLAIMops: AI claims processing
+**OCR + LLM extraction → human review → 10-rule policy engine → carrier portal.**
+
+Reads a claim form and hospital bill, pre-fills the claim with a confidence score, flags mismatches across documents, and routes only the doubtful cases to a person. Three services (Spring Boot API, React/TypeScript portal, FastAPI extraction) run with one `docker compose up`.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React_TS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
+[![CI](https://github.com/kiran-kumars953/claimops-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/claimops-showcase/actions/workflows/ci.yml)
+
+[**View repository →**](https://github.com/kiran-kumars953/claimops-showcase)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 2 · AI News → LinkedIn
 **LLM publishing pipeline with human approval.**
 
-AI news goes in, an LLM drafts the post, **a human approves it**, and only then does it publish to LinkedIn. The approval step keeps automation fast without losing editorial control.
+AI news goes in, an LLM drafts the post, **a human approves it**, and only then does it publish to LinkedIn. Runs daily on GitHub Actions; the approval step keeps automation fast without losing editorial control.
 
 ![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
 ![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-4ade80?style=flat-square&labelColor=15192e)
-![Automation](https://img.shields.io/badge/Automation-0a66c2?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)
 
 <sub>Repository private for now · details on request</sub>
@@ -51,7 +69,7 @@ AI news goes in, an LLM drafts the post, **a human approves it**, and only then 
 <tr>
 <td width="100%" valign="top">
 
-### ✍️ 2 · AI Handwritten Text Extractor
+### ✍️ 3 · AI Handwritten Text Extractor
 **Handwritten notes → editable digital text.**
 
 OCR pipeline with image preprocessing (thresholding, denoising, contrast enhancement) feeding Tesseract to turn handwritten pages into clean text.
@@ -60,30 +78,36 @@ OCR pipeline with image preprocessing (thresholding, denoising, contrast enhance
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15192e?style=flat-square)
 
-[**View repository →**](https://github.com/kiran-kumars953/HandwriteAiApplication)
+<sub>Showcase repository coming soon</sub>
 
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
 
-### 🌐 3 · Personal Portfolio
+### 🌐 4 · Personal Portfolio
 **Live at [me.nmstudios.ai](https://me.nmstudios.ai).**
 
-Responsive single-page portfolio built with React and Vite, with Framer Motion and AOS animations, deployed on Cloudflare.
+Responsive single-page portfolio (React 19, Vite, Tailwind) on Cloudflare Workers, with a tested serverless contact API.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+[![CI](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml)
 
-[**Live site →**](https://me.nmstudios.ai) · [**Source →**](https://github.com/kiran-kumars953/personal-portfolio)
+[**Live site →**](https://me.nmstudios.ai) · [**Source →**](https://github.com/kiran-kumars953/personal-portfolio-showcase)
 
 </td>
 </tr>
 </table>
 
 <div align="center"><sub><a href="https://github.com/kiran-kumars953?tab=repositories">Browse all repositories →</a></sub></div>
+
+---
+
+## 🧭 How I work
+
+Every showcase repo ships with **CI on each push**, **automated tests**, a README with architecture diagrams and setup steps, and contributing / security docs. Secrets stay in environment variables, never in code.
 
 ---
 
