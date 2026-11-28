@@ -34,7 +34,42 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🛡️ 1 · CLAIMops: AI claims processing
+### 🤖 1 · AI News → LinkedIn
+**LLM publishing pipeline with human approval.**
+
+Reads 12 AI engineering blogs, picks a fresh story, drafts the post with Gemini, scores it on a 10-check quality rubric and renders a card or carousel. **A human approves it** through HMAC-signed, expiring links before it publishes via the LinkedIn API. Runs daily on GitHub Actions + Apps Script, no server.
+
+![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
+![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-4ade80?style=flat-square&labelColor=15192e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)
+[![CI](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase/actions/workflows/ci.yml)
+
+[**View repository →**](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🌐 2 · Personal Portfolio
+**Live at [me.nmstudios.ai](https://me.nmstudios.ai).**
+
+Responsive single-page portfolio (React 19, Vite, Tailwind) on Cloudflare Workers, with a tested serverless contact API.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+[![CI](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml)
+
+[**Live site →**](https://me.nmstudios.ai) · [**Source →**](https://github.com/kiran-kumars953/personal-portfolio-showcase)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🛡️ 3 · CLAIMops: AI claims processing
 **OCR + LLM extraction → human review → 10-rule policy engine → carrier portal.**
 
 Reads a claim form and hospital bill, pre-fills the claim with a confidence score, flags mismatches across documents, and routes only the doubtful cases to a person. Three services (Spring Boot API, React/TypeScript portal, FastAPI extraction) run with one `docker compose up`.
@@ -52,51 +87,19 @@ Reads a claim form and hospital bill, pre-fills the claim with a confidence scor
 <tr>
 <td width="100%" valign="top">
 
-### 🤖 2 · AI News → LinkedIn
-**LLM publishing pipeline with human approval.**
+### ✍️ 4 · AI Handwritten Form Extractor
+**Handwritten form image → structured JSON / CSV.**
 
-AI news goes in, an LLM drafts the post, **a human approves it**, and only then does it publish to LinkedIn. Runs daily on GitHub Actions; the approval step keeps automation fast without losing editorial control.
+Tesseract OCR reads the page, then GPT-4o-mini turns the raw text into named fields with confidence scores against a strict schema. Rate-limit retries, a safe fallback when the model returns bad JSON, run tracking, JSON/CSV export and OpenTelemetry tracing. Spring Boot API with a React UI.
 
-![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
-![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-4ade80?style=flat-square&labelColor=15192e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)
-
-<sub>Repository private for now · details on request</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### ✍️ 3 · AI Handwritten Text Extractor
-**Handwritten notes → editable digital text.**
-
-OCR pipeline with image preprocessing (thresholding, denoising, contrast enhancement) feeding Tesseract to turn handwritten pages into clean text.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15192e?style=flat-square)
-
-<sub>Showcase repository coming soon</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### 🌐 4 · Personal Portfolio
-**Live at [me.nmstudios.ai](https://me.nmstudios.ai).**
-
-Responsive single-page portfolio (React 19, Vite, Tailwind) on Cloudflare Workers, with a tested serverless contact API.
-
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-[![CI](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml)
+![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15192e?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
+[![CI](https://github.com/kiran-kumars953/ai-handwritten-form-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/ai-handwritten-form-extractor/actions/workflows/ci.yml)
 
-[**Live site →**](https://me.nmstudios.ai) · [**Source →**](https://github.com/kiran-kumars953/personal-portfolio-showcase)
-
+[**View repository →**](https://github.com/kiran-kumars953/ai-handwritten-form-extractor)
 </td>
 </tr>
 </table>
