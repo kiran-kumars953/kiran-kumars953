@@ -118,7 +118,7 @@
     <line x1="0" y1="120" x2="60" y2="120" stroke="#fcd34d" stroke-width="2"/>
 
     <text y="158" font-size="14" fill="#e8d5ff">Previously Software Engineer – AI at Aseuro Technologies.</text>
-    <text y="180" font-size="14" fill="#e8d5ff">Building in Java, Python, React and Node.js.</text>
+    <text y="180" font-size="14" fill="#e8d5ff">Building with Python, React, Node.js and LLM APIs.</text>
     <text y="202" font-size="14" fill="#cbd5e1" opacity="0.75">Open to Software / AI Engineer roles.</text>
   </g>
 
@@ -127,9 +127,9 @@
     <rect width="320" height="200" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18" stroke-width="0.6"/>
     <text x="20" y="32" font-family="'JetBrains Mono', monospace" font-size="10" fill="#fcd34d" letter-spacing="3">— SELECTED</text>
     <g font-family="'Inter', sans-serif" font-size="13" fill="#fef3c7">
-      <text x="20" y="60">01 · CLAIMops · AI claims platform</text>
-      <text x="20" y="84">02 · AI news → LinkedIn pipeline</text>
-      <text x="20" y="108">03 · personal portfolio</text>
+      <text x="20" y="60">01 · AI news → LinkedIn pipeline</text>
+      <text x="20" y="84">02 · CLAIMops · AI claims platform</text>
+      <text x="20" y="108">03 · Handwritten form extractor</text>
     </g>
     <line x1="20" y1="124" x2="300" y2="124" stroke="#ffffff" stroke-opacity="0.15"/>
     <text x="20" y="148" font-family="'JetBrains Mono', monospace" font-size="10" fill="#fcd34d" letter-spacing="3">— ELSEWHERE</text>
