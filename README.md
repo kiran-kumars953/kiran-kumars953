@@ -122,11 +122,7 @@ Every showcase repo ships with **CI on each push**, **automated tests**, a READM
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" alt="Python, JavaScript, TypeScript, Java"/></td></tr>
 <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/></td></tr>
 <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Node.js, Express, FastAPI, Spring Boot"/></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, scikit-learn"/><br/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-<img src="https://img.shields.io/badge/Tesseract_OCR-15192e?style=flat-square" alt="Tesseract OCR"/>
-<img src="https://img.shields.io/badge/Structured_LLM_output-a78bfa?style=flat-square" alt="Structured LLM output"/></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini,chatgpt,pytorch,opencv,sklearn,pandas,numpy,jupyter,streamlit,opentelemetry&theme=dark" alt="Gemini, OpenAI, PyTorch, OpenCV, scikit-learn, Pandas, NumPy, Jupyter, Streamlit, OpenTelemetry"/></td></tr>
 <tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL, MongoDB"/></td></tr>
 <tr><td><b>DevOps / Cloud</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,cloudflare,aws&theme=dark" alt="Docker, GitHub Actions, Jenkins, Cloudflare, AWS"/></td></tr>
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,postman&theme=dark" alt="Git, Postman"/></td></tr>
