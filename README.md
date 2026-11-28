@@ -9,6 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15192e)](mailto:kirankumar953863@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-a78bfa?style=for-the-badge&logo=readme&logoColor=white&labelColor=15192e)](https://me.nmstudios.ai/Kiran_Kumar_S_Resume.pdf)
 
+<a href="https://me.nmstudios.ai"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&lines=Software+Engineer+%C2%B7+AI+Engineer;LLM+pipelines+with+a+human+in+the+loop;OCR+%2B+LLM+document+extraction;Full-stack%3A+React+%C2%B7+Node.js+%C2%B7+Python" alt="Software Engineer · AI Engineer · LLM pipelines with a human in the loop · OCR + LLM document extraction · Full-stack"/></a>
+
 </div>
 
 <br/>
@@ -18,7 +20,7 @@
 <td align="center" width="25%"><b>🎯 Role</b><br/>Software / AI Engineer</td>
 <td align="center" width="25%"><b>📍 Location</b><br/>Bangalore, India</td>
 <td align="center" width="25%"><b>🟢 Status</b><br/>Open to work</td>
-<td align="center" width="25%"><b>🧰 Stack</b><br/>Java · Python · React · Node.js</td>
+<td align="center" width="25%"><b>🧰 Stack</b><br/>Python · React · Node.js · LLM APIs</td>
 </tr>
 </table>
 
@@ -114,23 +116,21 @@ Every showcase repo ships with **CI on each push**, **automated tests**, a READM
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech stack
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20AppConfig-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+<table align="center">
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" alt="Python, JavaScript, TypeScript, Java"/></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" alt="Node.js, Express, FastAPI, Spring Boot"/></td></tr>
+<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, scikit-learn"/><br/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Tesseract_OCR-15192e?style=flat-square" alt="Tesseract OCR"/>
+<img src="https://img.shields.io/badge/Structured_LLM_output-a78bfa?style=flat-square" alt="Structured LLM output"/></td></tr>
+<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL, MongoDB"/></td></tr>
+<tr><td><b>DevOps / Cloud</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,cloudflare,aws&theme=dark" alt="Docker, GitHub Actions, Jenkins, Cloudflare, AWS"/></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,postman&theme=dark" alt="Git, Postman"/></td></tr>
+</table>
 
 ---
 
