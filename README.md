@@ -41,10 +41,7 @@
 
 Reads 12 AI engineering blogs, picks a fresh story, drafts the post with Gemini, scores it on a 10-check quality rubric and renders a card or carousel. **A human approves it** through HMAC-signed, expiring links before it publishes via the LinkedIn API. Runs daily on GitHub Actions + Apps Script, no server.
 
-![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
-![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-4ade80?style=flat-square&labelColor=15192e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)
+<table><tr><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" width="32" height="32" alt="Python"/><br/><sub>Python</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark" width="32" height="32" alt="Gemini"/><br/><sub>Gemini</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=googleappsscript&theme=dark" width="32" height="32" alt="Apps Script"/><br/><sub>Apps Script</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" width="32" height="32" alt="LinkedIn API"/><br/><sub>LinkedIn API</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" width="32" height="32" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td><td align="center" width="72"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/icon-human-in-the-loop.svg" width="32" height="32" alt="Human in the loop"/><br/><sub>Human in the loop</sub></td></tr></table>
 [![CI](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase/actions/workflows/ci.yml)
 
 [**View repository →**](https://github.com/kiran-kumars953/linkedin-ai-autopost-showcase)
@@ -59,9 +56,7 @@ Reads 12 AI engineering blogs, picks a fresh story, drafts the post with Gemini,
 
 Responsive single-page portfolio (React 19, Vite, Tailwind) on Cloudflare Workers, with a tested serverless contact API.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<table><tr><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="32" height="32" alt="React"/><br/><sub>React</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark" width="32" height="32" alt="Vite"/><br/><sub>Vite</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" width="32" height="32" alt="Tailwind"/><br/><sub>Tailwind</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=workers&theme=dark" width="32" height="32" alt="Cloudflare Workers"/><br/><sub>Cloudflare Workers</sub></td></tr></table>
 [![CI](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml)
 
 [**Live site →**](https://me.nmstudios.ai) · [**Source →**](https://github.com/kiran-kumars953/personal-portfolio-showcase)
@@ -76,10 +71,7 @@ Responsive single-page portfolio (React 19, Vite, Tailwind) on Cloudflare Worker
 
 Reads a claim form and hospital bill, pre-fills the claim with a confidence score, flags mismatches across documents, and routes only the doubtful cases to a person. Three services (Spring Boot API, React/TypeScript portal, FastAPI extraction) run with one `docker compose up`.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React_TS-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
+<table><tr><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="32" height="32" alt="React"/><br/><sub>React</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" width="32" height="32" alt="TypeScript"/><br/><sub>TypeScript</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" width="32" height="32" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" width="32" height="32" alt="FastAPI"/><br/><sub>FastAPI</sub></td><td align="center" width="72"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/ocr.svg" width="32" height="32" alt="Tesseract"/><br/><sub>Tesseract</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" width="32" height="32" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" width="32" height="32" alt="Docker"/><br/><sub>Docker</sub></td></tr></table>
 [![CI](https://github.com/kiran-kumars953/claimops-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/claimops-showcase/actions/workflows/ci.yml)
 
 [**View repository →**](https://github.com/kiran-kumars953/claimops-showcase)
@@ -94,11 +86,7 @@ Reads a claim form and hospital bill, pre-fills the claim with a confidence scor
 
 Tesseract OCR reads the page, then GPT-4o-mini turns the raw text into named fields with confidence scores against a strict schema. Rate-limit retries, a safe fallback when the model returns bad JSON, run tracking, JSON/CSV export and OpenTelemetry tracing. Spring Boot API with a React UI.
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15192e?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-a78bfa?style=flat-square)
+<table><tr><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" width="32" height="32" alt="Java"/><br/><sub>Java</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" width="32" height="32" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="32" height="32" alt="React"/><br/><sub>React</sub></td><td align="center" width="72"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/ocr.svg" width="32" height="32" alt="Tesseract"/><br/><sub>Tesseract</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" width="32" height="32" alt="OpenAI"/><br/><sub>OpenAI</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry&theme=dark" width="32" height="32" alt="OpenTelemetry"/><br/><sub>OpenTelemetry</sub></td></tr></table>
 [![CI](https://github.com/kiran-kumars953/ai-handwritten-form-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/ai-handwritten-form-extractor/actions/workflows/ci.yml)
 
 [**View repository →**](https://github.com/kiran-kumars953/ai-handwritten-form-extractor)
