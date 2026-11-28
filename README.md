@@ -9,8 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15192e)](mailto:kirankumar953863@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-a78bfa?style=for-the-badge&logo=readme&logoColor=white&labelColor=15192e)](https://me.nmstudios.ai/Kiran_Kumar_S_Resume.pdf)
 
-<a href="https://me.nmstudios.ai"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&lines=Software+Engineer+%C2%B7+AI+Engineer;LLM+pipelines+with+a+human+in+the+loop;OCR+%2B+LLM+document+extraction;Full-stack%3A+React+%C2%B7+Node.js+%C2%B7+Python" alt="Software Engineer · AI Engineer · LLM pipelines with a human in the loop · OCR + LLM document extraction · Full-stack"/></a>
-
 </div>
 
 <p align="center">
